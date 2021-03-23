@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import TextField from './components/TextField';
+// importing the required components same as we did in JS.
 import { Counter } from './components/Counter';
 
 const App: React.FC = () => {
